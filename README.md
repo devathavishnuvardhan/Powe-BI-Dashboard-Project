@@ -18,7 +18,7 @@ Project documentation for GitHub.
 * Power BI : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pbix"</a></br>
 *	Data source : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR_Analytics.csv"</a>
 *	Image : <img width="1358" height="775" alt="HR Daashboard image" src="https://github.com/user-attachments/assets/a6cf8b90-c629-49e1-82ed-79570b0c127c" />
-# Key Insights (Example)
+# Key Insights 
 *	Attrition rate by department and job role
 *	Impact of salary, experience, and age on attrition
 *	Employee distribution by gender and education
