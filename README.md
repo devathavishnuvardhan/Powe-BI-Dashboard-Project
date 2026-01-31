@@ -7,3 +7,5 @@ Contains raw employee data used for analysis (e.g., age, department, job role, a
 * assignment 3.pbix
 Power BI report file containing dashboards and visualizations built from the HR dataset.
 *	README.md
+Project documentation for GitHub.
+
