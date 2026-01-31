@@ -8,4 +8,12 @@ Contains raw employee data used for analysis (e.g., age, department, job role, a
 Power BI report file containing dashboards and visualizations built from the HR dataset.
 *	README.md:
 Project documentation for GitHub.
+  # Objectives
+* Analyze employee attrition trends
+*	Identify key factors affecting employee turnover
+*	Understand workforce distribution across departments
+*	Visualize KPIs for HR decision‑making
+*	Build an interactive HR dashboard using Power BI
+
+
 
