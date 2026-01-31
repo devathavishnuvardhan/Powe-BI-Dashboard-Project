@@ -14,6 +14,11 @@ Project documentation for GitHub.
 *	Understand workforce distribution across departments
 *	Visualize KPIs for HR decision‑making
 *	Build an interactive HR dashboard using Power BI
+# Tools & Technologies Used
+* Power BI – Data modeling & visualization
+*	Microsoft Excel / CSV – Data source
+*	GitHub – Version control and project sharing
+
 
 
 
