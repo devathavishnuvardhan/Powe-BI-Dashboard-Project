@@ -15,7 +15,7 @@ Project documentation for GitHub.
 *	Visualize KPIs for HR decision‑making
 *	Build an interactive HR dashboard using Power BI
 # Tools & Technologies Used
-* Power BI : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pbix"</a>
+* Power BI : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pbix"</a></br>
 *	Data source : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR_Analytics.csv"</a>
 *	GitHub – Version control and project sharing
 
