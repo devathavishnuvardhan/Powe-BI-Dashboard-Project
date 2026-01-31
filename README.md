@@ -17,7 +17,21 @@ Project documentation for GitHub.
 # Tools & Technologies Used
 * Power BI : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR%20Analytics%20Dashboard.pbix"</a></br>
 *	Data source : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR_Analytics.csv"</a>
-*	GitHub – Version control and project sharing
+*	Image : <img width="1358" height="775" alt="HR Daashboard image" src="https://github.com/user-attachments/assets/a6cf8b90-c629-49e1-82ed-79570b0c127c" />
+# Key Insights (Example)
+*	Attrition rate by department and job role
+*	Impact of salary, experience, and age on attrition
+*	Employee distribution by gender and education
+*	Job satisfaction vs employee retention
+# Learning Outcomes
+*	Understanding HR analytics use cases
+*	Practical experience with Power BI dashboards
+*	Data cleaning and transformation basics
+*	Turning raw data into business insights
+
+
+
+
 
 
 
