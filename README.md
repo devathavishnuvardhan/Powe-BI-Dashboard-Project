@@ -16,7 +16,7 @@ Project documentation for GitHub.
 *	Build an interactive HR dashboard using Power BI
 # Tools & Technologies Used
 * Power BI – Data modeling & visualization
-*	Microsoft Excel / CSV – Data source
+*	Data source : <a href="https://github.com/devathavishnuvardhan/Powe-BI-Dashboard-Project/blob/main/HR_Analytics.csv"/</a>
 *	GitHub – Version control and project sharing
 
 
